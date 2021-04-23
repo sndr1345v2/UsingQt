@@ -1,0 +1,59 @@
+{
+    "users": [
+        {
+            "mail": "ANGEL.DURAN@BKN.com",
+            "name": "ANDU073",
+            "password": "2146"
+        },
+        {
+            "mail": "DIANA.ROBLES@BKN.com",
+            "name": "DIRO055",
+            "password": "5325"
+        },
+        {
+            "mail": "GERARDO.GUIJARRO@BKN.com",
+            "name": "GEGU042",
+            "password": "7276"
+        },
+        {
+            "mail": "ALEJANDRO.HERNANDEZ@BKN.com",
+            "name": "ALHE068",
+            "password": "4870"
+        },
+        {
+            "mail": "ISAAC.MORA@BKN.com",
+            "name": "ISMO031",
+            "password": "6046"
+        },
+        {
+            "mail": "JAVIER.GALLEGOS@BKN.com",
+            "name": "JAGA033",
+            "password": "2468"
+        },
+        {
+            "mail": "JESUS.GARZON@BKN.com",
+            "name": "JEGA067",
+            "password": "0588"
+        },
+        {
+            "mail": "SERGIO.LOPEZ@BKN.com",
+            "name": "SELO003",
+            "password": "3626"
+        },
+        {
+            "mail": "CRUZ.ESPINOZA@BKN.com",
+            "name": "CRES023",
+            "password": "7305"
+        },
+        {
+            "mail": "ERNESTO.SANDOVAL@BKN.com",
+            "name": "ERSA061",
+            "password": "8723"
+        },
+        {
+            "mail": "WEF",
+            "name": "EWF",
+            "password": "12"
+        }
+    ]
+}

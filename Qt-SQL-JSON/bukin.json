@@ -1,0 +1,631 @@
+{
+    "books": [
+        {
+            "author": "Arreola, Juan José",
+            "editorial": "Fondo de Cultura Económica",
+            "title": "Confabulario",
+            "type": "Antología",
+            "year": 1961
+        },
+        {
+            "author": "Azuela, Mariano",
+            "editorial": "Fondo de Cultura Económica",
+            "title": "Obras Completas",
+            "type": "Antología",
+            "year": 1916
+        },
+        {
+            "author": "Benedetti, Mario",
+            "editorial": "Punto de Lectura",
+            "title": "El Porvenir de mi Pasado",
+            "type": "Antología",
+            "year": 2003
+        },
+        {
+            "author": "Collis, Maurice",
+            "editorial": "Fondo de Cultura Económica",
+            "title": "Marco Polo",
+            "type": "Biografía",
+            "year": 1950
+        },
+        {
+            "author": "García Márquez, Gabriel",
+            "editorial": "Diana",
+            "title": "Vivir para contarla",
+            "type": "Biografía",
+            "year": 2002
+        },
+        {
+            "author": "McGregor Burns, James",
+            "editorial": "Harcourt Brace Jovanovich",
+            "title": "Roosevelt, the Soldier of Freedom",
+            "type": "Biografía",
+            "year": 1970
+        },
+        {
+            "author": "Muñoz, Rafael F.",
+            "editorial": "Fondo de Cultura Económica",
+            "title": "Santa Anna: el dictador resplandeciente",
+            "type": "Biografía",
+            "year": 1936
+        },
+        {
+            "author": "Calderón, Fernando",
+            "editorial": "Porrúa",
+            "title": "A ninguna de las tres - El torneo - Ana Bolena - Hermán o la vuelta del cruzado",
+            "type": "Drama",
+            "year": 2004
+        },
+        {
+            "author": "Cervantes, Miguel de",
+            "editorial": "Espasa-Calpe",
+            "title": "Entremeses",
+            "type": "Drama",
+            "year": 1615
+        },
+        {
+            "author": "Fernandez de Moratín, Leandro",
+            "editorial": "Editores Mexicanos Unidos",
+            "title": "El Sí de las Niñas - La Comedia Nueva o el Café",
+            "type": "Drama",
+            "year": 1806
+        },
+        {
+            "author": "Arias Galicia, Fernando",
+            "editorial": "Trillas",
+            "title": "Administración de Recursos Humanos",
+            "type": "Expositivo",
+            "year": 1973
+        },
+        {
+            "author": "Arnau, Carmen",
+            "editorial": "Península",
+            "title": "El Mundo Mítico de Gabriel García Márquez",
+            "type": "Expositivo",
+            "year": 1971
+        },
+        {
+            "author": "Ávila, Teresa de",
+            "editorial": "Bruguera",
+            "title": "Las Moradas del Castillo Interior",
+            "type": "Expositivo",
+            "year": 1588
+        },
+        {
+            "author": "Capote, Truman",
+            "editorial": "DeBolsillo",
+            "title": "Un Placer Fugaz: Correspondencia",
+            "type": "Epistolar",
+            "year": 2004
+        },
+        {
+            "author": "Gogh, Vincent van",
+            "editorial": "Tomo",
+            "title": "Cartas a Theo",
+            "type": "Epistolar",
+            "year": 1914
+        },
+        {
+            "author": "Proust, Marcel",
+            "editorial": "Plon",
+            "title": "Lettres Retrouvés",
+            "type": "Epistolar",
+            "year": 1966
+        },
+        {
+            "author": "Alcott, Louisa May",
+            "editorial": "Aladdin",
+            "title": "Little Women",
+            "type": "Narrativa",
+            "year": 1868
+        },
+        {
+            "author": "Asimov, Isaac",
+            "editorial": "Orbis",
+            "title": "El Sol Desnudo",
+            "type": "Narrativa",
+            "year": 1957
+        },
+        {
+            "author": "Beauvoir, Simone de",
+            "editorial": "Hermes",
+            "title": "La Invitada",
+            "type": "Narrativa",
+            "year": 1943
+        },
+        {
+            "author": "Acosta, María, et al.",
+            "editorial": "Macmillan/McGraw Hill",
+            "title": "Cuentamundos",
+            "type": "Obra gráfica",
+            "year": 1997
+        },
+        {
+            "author": "Dunne, John",
+            "editorial": "Parragon",
+            "title": "La Vida de los Beatles en Imágenes",
+            "type": "Obra gráfica",
+            "year": 2011
+        },
+        {
+            "author": "Quino",
+            "editorial": "Ediciones de la Flor",
+            "title": "Mafalda Inédita",
+            "type": "Obra gráfica",
+            "year": 2007
+        },
+        {
+            "author": "Alonso, Damaso",
+            "editorial": "Salvat",
+            "title": "Cancionero y Romancero Español",
+            "type": "Poesía",
+            "year": 1969
+        },
+        {
+            "author": "Anónimo",
+            "editorial": "Poetry Foundation",
+            "title": "Poetry",
+            "type": "Poesía",
+            "year": 2013
+        },
+        {
+            "author": "Baudelaire, Charles",
+            "editorial": "Millenium",
+            "title": "Las Flores del Mal",
+            "type": "Poesía",
+            "year": 1857
+        },
+        {
+            "author": "Arrivé, Michel",
+            "editorial": "Hatier",
+            "title": "Bescherelle: la conjugaison pour tous",
+            "type": "Referencia",
+            "year": 2006
+        },
+        {
+            "author": "Burgess, Peter",
+            "editorial": "Macmillan",
+            "title": "Essential Dictionary",
+            "type": "Referencia",
+            "year": 2003
+        },
+        {
+            "author": "Constitución Política de los Estados Unidos Mexicanos",
+            "editorial": "McGraw Hill",
+            "title": "Constitución Política de los Estados Unidos Mexicanos",
+            "type": "Referencia",
+            "year": 1917
+        },
+        {
+            "author": "Anónimo",
+            "editorial": "Leyenda",
+            "title": "Las Mil y una Noches",
+            "type": "Clásico",
+            "year": 0
+        },
+        {
+            "author": "Anónimo",
+            "editorial": "Verbo Divino",
+            "title": "La Biblia",
+            "type": "Clásico",
+            "year": 0
+        },
+        {
+            "author": "Anónimo",
+            "editorial": "Porrúa",
+            "title": "Poema del Mio Cid",
+            "type": "Clásico",
+            "year": 1200
+        }
+    ],
+    "users": [
+        {
+            "favorites": [
+                {
+                    "title": "Entremeses"
+                },
+                {
+                    "title": "Confabulario"
+                }
+            ],
+            "mail": "ANGEL.DURAN@BKN.com",
+            "myBooks": [
+                {
+                    "title": "Roosevelt, the Soldier of Freedom"
+                },
+                {
+                    "title": "Entremeses"
+                },
+                {
+                    "title": "Confabulario"
+                },
+                {
+                    "title": "Poema del Mio Cid"
+                },
+                {
+                    "title": "Las Moradas del Castillo Interior"
+                }
+            ],
+            "name": "ANDU073",
+            "password": "2146"
+        },
+        {
+            "favorites": [
+                {
+                    "title": "Las Flores del Mal"
+                },
+                {
+                    "title": "Lettres Retrouvés"
+                },
+                {
+                    "title": "Administración de Recursos Humanos"
+                }
+            ],
+            "mail": "DIANA.ROBLES@BKN.com",
+            "myBooks": [
+                {
+                    "title": "Las Flores del Mal"
+                },
+                {
+                    "title": "Lettres Retrouvés"
+                },
+                {
+                    "title": "A ninguna de las tres - El torneo - Ana Bolena - Hermán o la vuelta del cruzado"
+                },
+                {
+                    "title": "Marco Polo"
+                },
+                {
+                    "title": "Administración de Recursos Humanos"
+                }
+            ],
+            "name": "DIRO055",
+            "password": "5325"
+        },
+        {
+            "favorites": [
+                {
+                    "title": "Obras Completas"
+                },
+                {
+                    "title": "Santa Anna: el dictador resplandeciente"
+                },
+                {
+                    "title": "El Sí de las Niñas - La Comedia Nueva o el Café"
+                },
+                {
+                    "title": "Un Placer Fugaz: Correspondencia"
+                }
+            ],
+            "mail": "GERARDO.GUIJARRO@BKN.com",
+            "myBooks": [
+                {
+                    "title": "Obras Completas"
+                },
+                {
+                    "title": "Santa Anna: el dictador resplandeciente"
+                },
+                {
+                    "title": "El Sí de las Niñas - La Comedia Nueva o el Café"
+                },
+                {
+                    "title": "Un Placer Fugaz: Correspondencia"
+                },
+                {
+                    "title": "La Vida de los Beatles en Imágenes"
+                },
+                {
+                    "title": "Poetry"
+                }
+            ],
+            "name": "GEGU042",
+            "password": "7276"
+        },
+        {
+            "email": "ALEJANDRO.HERNANDEZ@BKN.com",
+            "favorites": [
+                {
+                    "title": "Roosevelt, the Soldier of Freedom"
+                },
+                {
+                    "title": "Marco Polo"
+                }
+            ],
+            "myBooks": [
+                {
+                    "title": "Marco Polo"
+                },
+                {
+                    "title": "Roosevelt, the Soldier of Freedom"
+                },
+                {
+                    "title": "Confabulario"
+                },
+                {
+                    "title": "Obras Completas"
+                }
+            ],
+            "name": "ALHE068",
+            "password": "4870"
+        },
+        {
+            "favorites": [
+                {
+                    "title": "El Sol Desnudo"
+                },
+                {
+                    "title": "La Invitada"
+                },
+                {
+                    "title": "Mafalda Inédita"
+                },
+                {
+                    "title": "Cancionero y Romancero Español"
+                }
+            ],
+            "mail": "ISAAC.MORA@BKN.com",
+            "myBooks": [
+                {
+                    "title": "Little Women"
+                },
+                {
+                    "title": "El Sol Desnudo"
+                },
+                {
+                    "title": "La Invitada"
+                },
+                {
+                    "title": "Cuentamundos"
+                },
+                {
+                    "title": "Mafalda Inédita"
+                },
+                {
+                    "title": "Cancionero y Romancero Español"
+                }
+            ],
+            "name": "ISMO031",
+            "password": "6046"
+        },
+        {
+            "favorites": [
+                {
+                    "title": "Essential Dictionary"
+                },
+                {
+                    "title": "Constitución Política de los Estados Unidos Mexicanos"
+                },
+                {
+                    "title": "Las Mil y una Noches"
+                },
+                {
+                    "title": "La Biblia"
+                }
+            ],
+            "mail": "JAVIER.GALLEGOS@BKN.com",
+            "myBooks": [
+                {
+                    "title": "Essential Dictionary"
+                },
+                {
+                    "title": "Constitución Política de los Estados Unidos Mexicanos"
+                },
+                {
+                    "title": "Las Mil y una Noches"
+                },
+                {
+                    "title": "La Biblia"
+                }
+            ],
+            "name": "JAGA033",
+            "password": "2468"
+        },
+        {
+            "favorites": [
+                {
+                    "title": "Little Women"
+                },
+                {
+                    "title": "La Invitada"
+                },
+                {
+                    "title": "Constitución Política de los Estados Unidos Mexicanos"
+                },
+                {
+                    "title": "Poema del Mio Cid"
+                }
+            ],
+            "mail": "JESUS.GARZON@BKN.com",
+            "myBooks": [
+                {
+                    "title": "El Porvenir de mi Pasado"
+                },
+                {
+                    "title": "Administración de Recursos Humanos"
+                },
+                {
+                    "title": "Little Women"
+                },
+                {
+                    "title": "La Invitada"
+                },
+                {
+                    "title": "Cancionero y Romancero Español"
+                },
+                {
+                    "title": "Constitución Política de los Estados Unidos Mexicanos"
+                },
+                {
+                    "title": "Poema del Mio Cid"
+                }
+            ],
+            "name": "JEGA067",
+            "password": "0588"
+        },
+        {
+            "favorites": [
+                {
+                    "title": "Confabulario"
+                },
+                {
+                    "title": "Vivir para contarla"
+                },
+                {
+                    "title": "Un Placer Fugaz: Correspondencia"
+                },
+                {
+                    "title": "Essential Dictionary"
+                },
+                {
+                    "title": "Poema del Mio Cid"
+                }
+            ],
+            "mail": "SERGIO.LOPEZ@BKN.com",
+            "myBooks": [
+                {
+                    "title": "Confabulario"
+                },
+                {
+                    "title": "Vivir para contarla"
+                },
+                {
+                    "title": "A ninguna de las tres - El torneo - Ana Bolena - Hermán o la vuelta del cruzado"
+                },
+                {
+                    "title": "Un Placer Fugaz: Correspondencia"
+                },
+                {
+                    "title": "Cuentamundos"
+                },
+                {
+                    "title": "Cancionero y Romancero Español"
+                },
+                {
+                    "title": "Essential Dictionary"
+                },
+                {
+                    "title": "Poema del Mio Cid"
+                }
+            ],
+            "name": "SELO003",
+            "password": "3626"
+        },
+        {
+            "favorites": [
+                {
+                    "title": "Marco Polo"
+                },
+                {
+                    "title": "Entremeses"
+                },
+                {
+                    "title": "Cartas a Theo"
+                },
+                {
+                    "title": "La Invitada"
+                },
+                {
+                    "title": "Poetry"
+                },
+                {
+                    "title": "Las Mil y una Noches"
+                }
+            ],
+            "mail": "CRUZ.ESPINOZA@BKN.com",
+            "myBooks": [
+                {
+                    "title": "Marco Polo"
+                },
+                {
+                    "title": "Santa Anna: el dictador resplandeciente"
+                },
+                {
+                    "title": "Entremeses"
+                },
+                {
+                    "title": "El Mundo Mítico de Gabriel García Márquez"
+                },
+                {
+                    "title": "Cartas a Theo"
+                },
+                {
+                    "title": "La Invitada"
+                },
+                {
+                    "title": "Poetry"
+                },
+                {
+                    "title": "Constitución Política de los Estados Unidos Mexicanos"
+                },
+                {
+                    "title": "Las Mil y una Noches"
+                }
+            ],
+            "name": "CRES023",
+            "password": "7305"
+        },
+        {
+            "email": "ERNESTO.SANDOVAL@BKN.com",
+            "favorites": [
+                {
+                    "title": "Marco Polo"
+                },
+                {
+                    "title": "Obras Completas"
+                },
+                {
+                    "title": "Vivir para contarla"
+                },
+                {
+                    "title": "Las Moradas del Castillo Interior"
+                },
+                {
+                    "title": "El Sol Desnudo\u001f"
+                },
+                {
+                    "title": "Las Flores del Mal"
+                },
+                {
+                    "title": "Las Mil y una Noches"
+                }
+            ],
+            "myBooks": [
+                {
+                    "title": "Roosevelt, the Soldier of Freedom"
+                },
+                {
+                    "title": "Marco Polo"
+                },
+                {
+                    "title": "Obras Completas"
+                },
+                {
+                    "title": "Confabulario"
+                },
+                {
+                    "title": "Vivir para contarla"
+                },
+                {
+                    "title": "Las Moradas del Castillo Interior"
+                },
+                {
+                    "title": "Lettres Retrouvés"
+                },
+                {
+                    "title": "El Sol Desnudo"
+                },
+                {
+                    "title": "La Vida de los Beatles en Imágenes"
+                },
+                {
+                    "title": "Las Flores del Mal"
+                },
+                {
+                    "title": "Las Mil y una Noches"
+                }
+            ],
+            "name": "ERSA061",
+            "password": "8723"
+        }
+    ]
+}

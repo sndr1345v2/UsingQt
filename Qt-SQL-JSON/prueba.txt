@@ -1,0 +1,196 @@
+{
+    "users": [
+        {
+            "mail": "ANGEL.DURAN@BKN.com",
+            "name": "ANDU073",
+            "password": "2146",
+            "myBooks" : [
+              {"title" : "Roosevelt, the Soldier of Freedom"},
+              {"title" : "Entremeses"},
+              {"title" : "Confabulario"},
+              {"title" : "Poema del Mio Cid"},
+              {"title" : "Las Moradas del Castillo Interior"}
+            ],
+            "favorites" : [
+              {"title" : "Entremeses"},
+              {"title" : "Confabulario"}
+            ]
+        },
+        {
+            "mail": "DIANA.ROBLES@BKN.com",
+            "name": "DIRO055",
+            "password": "5325",
+            "myBooks" : [
+              {"title" : "Las Flores del Mal"},
+              {"title" : "Lettres Retrouvés"},
+              {"title" : "A ninguna de las tres - El torneo - Ana Bolena - Hermán o la vuelta del cruzado"},
+              {"title" : "Marco Polo"},
+              {"title" : "Administración de Recursos Humanos"}
+            ],
+            "favorites" : [
+              {"title" : "Las Flores del Mal"},
+              {"title" : "Lettres Retrouvés"},
+              {"title" : "Administración de Recursos Humanos"}
+            ]
+        },
+        {
+            "mail": "GERARDO.GUIJARRO@BKN.com",
+            "name": "GEGU042",
+            "password": "7276",
+            "myBooks" : [
+              {"title" : "Obras Completas"},
+              {"title" : "Santa Anna: el dictador resplandeciente"},
+              {"title" : "El Sí de las Niñas - La Comedia Nueva o el Café"},
+              {"title" : "Un Placer Fugaz: Correspondencia"},
+              {"title" : "La Vida de los Beatles en Imágenes"},
+              {"title" : "Poetry"}
+            ],
+            "favorites" : [
+              {"title" : "Obras Completas"},
+              {"title" : "Santa Anna: el dictador resplandeciente"},
+              {"title" : "El Sí de las Niñas - La Comedia Nueva o el Café"},
+              {"title" : "Un Placer Fugaz: Correspondencia"}
+            ]
+        },
+        {
+            "mail": "ALEJANDRO.HERNANDEZ@BKN.com",
+            "name": "ALHE068",
+            "password": "4870",
+            "myBooks" : [
+              {"title" : "El Porvenir de mi Pasado"},
+              {"title" : "Vivir para contarla"},
+              {"title" : "El Mundo Mítico de Gabriel García Márquez"},
+              {"title" : "Cartas a Theo"}
+            ],
+            "favorites" : [
+              {"title" : "El Porvenir de mi Pasado"},
+              {"title" : "El Mundo Mítico de Gabriel García Márquez"},
+              {"title" : "Cartas a Theo"}
+            ]
+        },
+        {
+            "mail": "ISAAC.MORA@BKN.com",
+            "name": "ISMO031",
+            "password": "6046",
+            "myBooks" : [
+              {"title" : "Little Women"},
+              {"title" : "El Sol Desnudo"},
+              {"title" : "La Invitada"},
+              {"title" : "Cuentamundos"},
+              {"title" : "Mafalda Inédita"},
+              {"title" : "Cancionero y Romancero Español"}
+            ],
+            "favorites" : [
+              {"title" : "El Sol Desnudo"},
+              {"title" : "La Invitada"},
+              {"title" : "Mafalda Inédita"},
+              {"title" : "Cancionero y Romancero Español"}
+            ]
+        },
+        {
+            "mail": "JAVIER.GALLEGOS@BKN.com",
+            "name": "JAGA033",
+            "password": "2468",
+            "myBooks" : [
+              {"title" : "Essential Dictionary"},
+              {"title" : "Constitución Política de los Estados Unidos Mexicanos"},
+              {"title" : "Las Mil y una Noches"},
+              {"title" : "La Biblia"}
+            ],
+            "favorites" : [
+              {"title" : "Essential Dictionary"},
+              {"title" : "Constitución Política de los Estados Unidos Mexicanos"},
+              {"title" : "Las Mil y una Noches"},
+              {"title" : "La Biblia"}
+            ]
+        },
+        {
+            "mail": "JESUS.GARZON@BKN.com",
+            "name": "JEGA067",
+            "password": "0588",
+            "myBooks" : [
+              {"title" : "El Porvenir de mi Pasado"},
+              {"title" : "Administración de Recursos Humanos"},
+              {"title" : "Little Women"},
+              {"title" : "La Invitada"},
+              {"title" : "Cancionero y Romancero Español"},
+              {"title" : "Constitución Política de los Estados Unidos Mexicanos"},
+              {"title" : "Poema del Mio Cid"}
+            ],
+            "favorites" : [
+              {"title" : "Little Women"},
+              {"title" : "La Invitada"},
+              {"title" : "Constitución Política de los Estados Unidos Mexicanos"},
+              {"title" : "Poema del Mio Cid"}
+            ]
+        },
+        {
+            "mail": "SERGIO.LOPEZ@BKN.com",
+            "name": "SELO003",
+            "password": "3626",
+            "myBooks" : [
+              {"title" : "Confabulario"},
+              {"title" : "Vivir para contarla"},
+              {"title" : "A ninguna de las tres - El torneo - Ana Bolena - Hermán o la vuelta del cruzado"},
+              {"title" : "Un Placer Fugaz: Correspondencia"},
+              {"title" : "Cuentamundos"},
+              {"title" : "Cancionero y Romancero Español"},
+              {"title" : "Essential Dictionary"},
+              {"title" : "Poema del Mio Cid"}
+            ],
+            "favorites" : [
+              {"title" : "Confabulario"},
+              {"title" : "Vivir para contarla"},
+              {"title" : "Un Placer Fugaz: Correspondencia"},
+              {"title" : "Essential Dictionary"},
+              {"title" : "Poema del Mio Cid"}
+            ]
+        },
+        {
+            "mail": "CRUZ.ESPINOZA@BKN.com",
+            "name": "CRES023",
+            "password": "7305",
+            "myBooks" : [
+              {"title" : "Marco Polo"},
+              {"title" : "Santa Anna: el dictador resplandeciente"},
+              {"title" : "Entremeses"},
+              {"title" : "El Mundo Mítico de Gabriel García Márquez"},
+              {"title" : "Cartas a Theo"},
+              {"title" : "La Invitada"},
+              {"title" : "Poetry"},
+              {"title" : "Constitución Política de los Estados Unidos Mexicanos"},
+              {"title" : "Las Mil y una Noches"}
+            ],
+            "favorites" : [
+              {"title" : "Marco Polo"},
+              {"title" : "Entremeses"},
+              {"title" : "Cartas a Theo"},
+              {"title" : "La Invitada"},
+              {"title" : "Poetry"},
+              {"title" : "Las Mil y una Noches"}
+            ]
+        },
+        {
+            "mail": "ERNESTO.SANDOVAL@BKN.com",
+            "name": "ERSA061",
+            "password": "8723",
+            "myBooks" : [
+              {"title" : "Vivir para contarla"},
+              {"title" : "Las Moradas del Castillo Interior"},
+              {"title" : "Lettres Retrouvés"},
+              {"title" : "El Sol Desnudo"},
+              {"title" : "La Vida de los Beatles en Imágenes"},
+              {"title" : "Las Flores del Mal"},
+              {"title" : "Las Mil y una Noches"}
+            ],
+            "favorites" : [
+              {"title" : "Vivir para contarla"},
+              {"title" : "Las Moradas del Castillo Interior"},
+              {"title" : "El Sol Desnudo"},
+              {"title" : "Las Flores del Mal"},
+              {"title" : "Las Mil y una Noches"}
+            ]
+        }
+    ]
+
+}

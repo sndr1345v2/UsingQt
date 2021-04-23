@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "mail": "ALEJANDRO.HERNANDEZ@BKN.com",
+            "name": "ALHE068",
+            "password": "4870"
+        },
+        {
+            "mail": "ISAAC.MORA@BKN.com",
+            "name": "ISMO031",
+            "password": "6046"
+        },
+        {
+            "mail": "JAVIER.GALLEGOS@BKN.com",
+            "name": "JAGA033",
+            "password": "2468"
+        },
+        {
+            "mail": "JESUS.GARZON@BKN.com",
+            "name": "JEGA067",
+            "password": "0588"
+        },
+        {
+            "mail": "SERGIO.LOPEZ@BKN.com",
+            "name": "SELO003",
+            "password": "3626"
+        },
+        {
+            "mail": "CRUZ.ESPINOZA@BKN.com",
+            "name": "CRES023",
+            "password": "7305"
+        },
+        {
+            "mail": "ERNESTO.SANDOVAL@BKN.com",
+            "name": "ERSA061",
+            "password": "8723"
+        },
+        {
+            "mail": "DW",
+            "name": "A",
+            "password": "1"
+        },
+        {
+            "mail": "OPO",
+            "name": "O",
+            "password": "12"
+        },
+        {
+            "mail": "32423",
+            "name": "P",
+            "password": "12"
+        },
+        {
+            "mail": "NUEVO",
+            "name": "NUEVO",
+            "password": "NUEVO"
+        },
+        {
+            "mail": "USUARIO@GMAIL.COM",
+            "name": "NUEVOUSUARIO",
+            "password": "USUARIO"
+        }
+    ]
+}
